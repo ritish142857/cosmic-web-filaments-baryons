@@ -1,0 +1,6 @@
+D_Fil_bins(mpc),f_c_Lya,f_c_upper,f_c_lower,EW_threshold_A,uncertainty
+0–1,0.56,0.65,0.47,0.3,1-sigma Wilson score confidence interval
+1–2,0.5,0.59,0.41,0.3,1-sigma Wilson score confidence interval
+2–4,0.33,0.4,0.27,0.3,1-sigma Wilson score confidence interval
+4–8,0.32,0.37,0.28,0.3,1-sigma Wilson score confidence interval
+8–26,0.3,0.35,0.26,0.3,1-sigma Wilson score confidence interval
